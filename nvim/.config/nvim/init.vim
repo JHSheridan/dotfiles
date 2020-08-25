@@ -15,7 +15,7 @@ Plugin 'preservim/nerdtree'
 
 Plugin 'https://github.com/joshdick/onedark.vim'
 
-" Plugin 'https://github.com/itchyny/lightline.vim'
+Plugin 'https://github.com/itchyny/lightline.vim'
 
 Plugin 'https://github.com/vimwiki/vimwiki'
 
